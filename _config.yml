@@ -76,7 +76,7 @@ theme_mode: [dark]
 avatar: "/assets/img/icon.jpg"
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: false
 
 comments:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
@@ -109,7 +109,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 7
+paginate: 5
 
 # The base URL of your site
 baseurl: ""
